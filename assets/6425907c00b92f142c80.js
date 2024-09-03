@@ -1,0 +1,1 @@
+import"./styles/main.scss";document.addEventListener("DOMContentLoaded",(()=>{window.onscroll=function(){document.body.scrollTop>50||document.documentElement.scrollTop>50?document.querySelector("header").classList.add("active"):document.querySelector("header").classList.remove("active")}}));
