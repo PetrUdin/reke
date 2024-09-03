@@ -2,4 +2,4 @@
 ## Создание сайта
 
 
-### GitHub Pages: <https://rfecer.ru/>
+### Сайт: <https://rfecer.ru/>
